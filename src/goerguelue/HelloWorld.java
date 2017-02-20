@@ -12,4 +12,8 @@ public class HelloWorld {
 	public static void Czesc(){
 		System.out.println("Czesc Swiat");
 	}
+	
+	public static void Merhaba(){
+		System.out.println("Merhaba Dünya");
+	}
 }

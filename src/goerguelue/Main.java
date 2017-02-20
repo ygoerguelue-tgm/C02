@@ -6,6 +6,7 @@ public class Main {
 		HelloWorld.Hallo();
 		HelloWorld.Hello();
 		HelloWorld.Czesc();
+		HelloWorld.Merhaba();
 	}
 
 }
